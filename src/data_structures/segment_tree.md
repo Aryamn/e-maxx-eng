@@ -1198,10 +1198,6 @@ Obviously this idea can be extended in lots of different ways. E.g. by adding su
 * [COCI - Deda](https://oj.uz/problem/view/COCI17_deda) [Last element smaller or equal to x / Binary search]
 * [Codeforces - The Untended Antiquity](https://codeforces.com/problemset/problem/869/E) [2D]
 * [CSES - Hotel Queries](https://cses.fi/problemset/task/1143)
-<<<<<<< HEAD
-=======
 * [CSES - Polynomial Queries](https://cses.fi/problemset/task/1736)
 * [CSES - Range Updates and Sums](https://cses.fi/problemset/task/1735)
 
-:diffg RE  
->>>>>>> d37722933a64e1b108a5408ef39e393ad57b4186
